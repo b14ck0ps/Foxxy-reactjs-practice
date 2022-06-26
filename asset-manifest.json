@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Foxxy-reactjs-practice/static/css/main.cbeed520.css",
+    "main.js": "/Foxxy-reactjs-practice/static/js/main.b6cd1547.js",
+    "static/media/books.png": "/Foxxy-reactjs-practice/static/media/books.21a52081bc9a16da305d.png",
+    "static/media/picture.svg": "/Foxxy-reactjs-practice/static/media/picture.0103a39dd201c3eb6126faa3c2259798.svg",
+    "static/media/instagram.svg": "/Foxxy-reactjs-practice/static/media/instagram.1497cd017675d965778dc8ce12394e05.svg",
+    "static/media/books.svg": "/Foxxy-reactjs-practice/static/media/books.30c3a506bf8126175db39bbf95c22538.svg",
+    "static/media/computer.svg": "/Foxxy-reactjs-practice/static/media/computer.4df05ba3aff5267bccebe3f839c2031c.svg",
+    "static/media/facebook.svg": "/Foxxy-reactjs-practice/static/media/facebook.d77df6a54dabe4be426b85b12c5e1236.svg",
+    "static/media/linkedin.svg": "/Foxxy-reactjs-practice/static/media/linkedin.af43cfef102f75ab90230bd4e08cc097.svg",
+    "static/media/google.svg": "/Foxxy-reactjs-practice/static/media/google.15b2014444c627c0eba843c62cc90c99.svg",
+    "index.html": "/Foxxy-reactjs-practice/index.html",
+    "main.cbeed520.css.map": "/Foxxy-reactjs-practice/static/css/main.cbeed520.css.map",
+    "main.b6cd1547.js.map": "/Foxxy-reactjs-practice/static/js/main.b6cd1547.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbeed520.css",
+    "static/js/main.b6cd1547.js"
+  ]
+}
