@@ -1,0 +1,29 @@
+.card{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-left: 0.1px;
+    margin-bottom: 50px;
+    max-width: 450px;
+    padding: 100px;
+    background-color: #fff;
+    border-radius: 25px;
+    box-shadow: -2px 0px -5px 0px rgba(0, 0, 1, 0.1);
+}
+
+.card h3{
+    font-size: 1.3rem;
+    font-family: "Poppins", sans-serif;
+    margin: 15px;
+    color: #402E46;
+    text-align: center;
+}
+
+.card img{
+    width: 50%;
+    height: auto;
+    margin: 20px;
+    object-fit: cover;
+}

@@ -1,0 +1,23 @@
+.footer{
+    padding: 20px;
+    text-align: center;
+}
+.footer ul{
+    list-style: none;
+}
+.footer li{
+    display: inline-block;
+    margin: 50px 100px;
+    color: #402e46ee;
+    font-size: 1.4rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+}
+.footer h2{
+    font-size: 1.3rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #402e469a;
+    text-align: center;
+    margin: 15px;
+}

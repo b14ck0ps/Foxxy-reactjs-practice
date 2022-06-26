@@ -1,0 +1,15 @@
+.linkList{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 50px auto;
+    width: 100%;
+    /* max-width: 1200px; */
+    padding: 0;
+    list-style: none;
+    font-size: 3rem;
+}
+.linkList img {
+    width: 10%;
+    height: auto;
+}
