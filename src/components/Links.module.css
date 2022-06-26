@@ -10,6 +10,12 @@
     font-size: 3rem;
 }
 .linkList img {
-    width: 10%;
+    width: 200px;
     height: auto;
 }
+.linkList img:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+    cursor: pointer;
+}
+

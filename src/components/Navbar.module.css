@@ -18,6 +18,8 @@
 .logo:hover{
     cursor: pointer;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.404);
+    transition: 0.1s;
+    transform: scale(1.1);
 }
 .nav__links{
     list-style: none;
@@ -28,6 +30,9 @@ a , li {
     text-decoration: none;
     color: #402E46;
     font-weight: 400;
+}
+a:hover{
+    text-shadow: 1px 1px 0.5px rgba(0, 0, 0, 0.404);
 }
 .nav__links li{
     display: inline-block;
@@ -44,5 +49,12 @@ a , li {
     font-weight: 400;
     cursor: pointer;
     border-radius: 10px;
-    margin-left: 2rem;
+    margin-left: 4rem;
+    border: 1px solid transparent;
+}
+.navbar button:hover{
+    color: #402E46;
+    border: 1px solid #402E46;
+    background-color: #fff;
+    background-color: transparent;
 }

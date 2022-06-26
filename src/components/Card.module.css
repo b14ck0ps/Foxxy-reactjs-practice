@@ -5,6 +5,7 @@
 }
 
 .grad__card{
+    height: auto;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -17,10 +18,14 @@
     padding: 50px 20px; 
 }   
 .grad__card img{
-    width: 20%;
-    height: 0%;
-    margin: 20px;
-    object-fit: cover;
+    width: 400px;
+    padding: 20px;
+    /* object-fit: cover; */
+}
+.grad__card img:hover{
+    transform: scale(1.1);
+    transition: 0.1s;
+
 }
 .texts{
     margin-left: 100px;
@@ -52,4 +57,16 @@
     border-radius: 10px;
     margin-top: 50px;
     padding: 20px;
-}   
+}
+.grad__card button:hover{
+    color: #fff;
+    background-color: #402E46;
+    transition: 0.2s;
+}
+.ref {
+    color: red;
+}
+.ref:hover {
+    all: unset;
+    cursor: pointer;
+}

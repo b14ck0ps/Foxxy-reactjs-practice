@@ -14,7 +14,14 @@ function Card() {
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />
               Quisquam, quidem. Lorem ipsum dolor sit amet consectetur
-              adipisicing elit. <br />
+              adipisicing elit. <br /> <br />
+              <a
+                className={CardCSS.ref}
+                href="https://dribbble.com/shots/14980062--Foxxy-landing-page/attachments/6699909?mode=media"
+              >
+                Dribbble Ref Link
+              </a>
+              <br />
             </p>
             <button>Get Early Access</button>
           </div>

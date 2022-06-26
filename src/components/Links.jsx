@@ -7,10 +7,18 @@ import linkedin from "../svg/linkedin.svg";
 function Links() {
   return (
     <div className={LinkCSS.linkList}>
-      <img src={facebook} alt="" srcset="" />
-      <img src={google} alt="" srcset="" />
-      <img src={instagram} alt="" srcset="" />
-      <img src={linkedin} alt="" srcset="" />
+      <a href="https://www.fb.me/azran.mrx">
+        <img src={facebook} alt="" srcset="" />
+      </a>
+      <a href="https://www.google.com">
+        <img src={google} alt="" srcset="" />
+      </a>
+      <a href="https://www.instagram.com/b14ck0ps/">
+        <img src={instagram} alt="" srcset="" />
+      </a>
+      <a href="https://www.linkedin.com/in/azran/">
+        <img src={linkedin} alt="" srcset="" />
+      </a>
     </div>
   );
 }

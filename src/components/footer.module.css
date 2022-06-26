@@ -21,3 +21,8 @@
     text-align: center;
     margin: 15px;
 }
+.footer li:hover{
+    color: #000;
+    cursor: pointer;
+    transform: scale(1.02);
+}
